@@ -67,16 +67,19 @@ const Home = ({navigation}) => {
 
           {/* Fatured Rows */}
                 <FeaturedRow
+                   id='101'
                    title="Featured"
                    description="Paid placement for our partners"
                    featuredCatergory="featured"
                 />
                 <FeaturedRow
+                    id='103'
                    title="Tasty Discounts"
                    description="Paid placement for our partners"
                    featuredCatergory="featured"
                 />
                 <FeaturedRow
+                    id='103'
                    title="Offers near you"
                    description="Paid placement for our partners"
                    featuredCatergory="featured"
