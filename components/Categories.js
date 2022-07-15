@@ -15,10 +15,30 @@ const Categories = () => {
          horizontal
          showsHorizontalScrollIndicator={false}
         >   
-            <CategoryCard imgUrl="https://links.papareact.com/wru" title="Emon"/>
-            <CategoryCard imgUrl="https://links.papareact.com/wru" title="Emon"/>
-            <CategoryCard imgUrl="https://links.papareact.com/wru" title="Emon"/>
-            <CategoryCard imgUrl="https://links.papareact.com/wru" title="Emon"/>
+            <CategoryCard 
+            imgUrl="https://media-cdn.tripadvisor.com/media/photo-s/0e/bc/93/c6/four-star-pizza.jpg" 
+            title="Emon"
+            />
+            <CategoryCard 
+            imgUrl="https://media-cdn.tripadvisor.com/media/photo-s/0e/bc/93/c6/four-star-pizza.jpg" 
+            title="Emon"
+            />
+            <CategoryCard 
+            imgUrl="https://media-cdn.tripadvisor.com/media/photo-s/0e/bc/93/c6/four-star-pizza.jpg" 
+            title="Emon"
+            />
+            <CategoryCard 
+            imgUrl="https://media-cdn.tripadvisor.com/media/photo-s/0e/bc/93/c6/four-star-pizza.jpg" 
+            title="Emon"
+            />
+            <CategoryCard 
+            imgUrl="https://media-cdn.tripadvisor.com/media/photo-s/0e/bc/93/c6/four-star-pizza.jpg" 
+            title="Emon"
+            />
+            <CategoryCard 
+            imgUrl="https://media-cdn.tripadvisor.com/media/photo-s/0e/bc/93/c6/four-star-pizza.jpg" 
+            title="Emon"
+            />
         </ScrollView>
     );
 }
